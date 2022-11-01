@@ -1893,14 +1893,14 @@
     webpack "5.73.0"
     webpack-node-externals "3.0.0"
 
-"@nestjs/common@^9.0.7":
-  version "9.0.7"
-  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-9.0.7.tgz#41295f6180280af3acb6e3786b08c1e44d9b3a72"
-  integrity sha512-XGAUYdS3deTeB/yGVIQLkXRggOdOYe5CeaDXmSaBrozElTUmv+S2x8tpE+0olIFmBjn/NFFV4UhxxKGTUqFH/w==
+"@nestjs/common@^9.1.6":
+  version "9.1.6"
+  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-9.1.6.tgz#79d71fb702816c07d8479f5aec71815c1762eea7"
+  integrity sha512-9Ttk9va/BwEab36RSXLZdRoPUX3DZHUpzseKEfqHVhnaUIsIMt7lVd79GQ1FroQ2FZqoCwcLyBowevXhrE1Wnw==
   dependencies:
     iterare "1.2.1"
     tslib "2.4.0"
-    uuid "8.3.2"
+    uuid "9.0.0"
 
 "@nestjs/config@^2.2.0":
   version "2.2.0"
@@ -7676,6 +7676,11 @@ uuid@8.3.2, uuid@^8.3.0, uuid@^8.3.2:
   version "8.3.2"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.3.2.tgz#80d5b5ced271bb9af6c445f21a1a04c606cefbe2"
   integrity sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==
+
+uuid@9.0.0:
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-9.0.0.tgz#592f550650024a38ceb0c562f2f6aa435761efb5"
+  integrity sha512-MXcSTerfPa4uqyzStbRoTgt5XIe3x5+42+q1sDuy3R5MDk66URdLMOZe5aPX/SQd+kuYAh0FdP/pO28IkQyTeg==
 
 v8-compile-cache-lib@^3.0.1:
   version "3.0.1"
